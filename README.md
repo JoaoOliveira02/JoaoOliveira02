@@ -1,35 +1,55 @@
 # João Vitor Ferreira Oliveira
 
-Sou um desenvolvedor **C#** apaixonado por tecnologia, com experiência em **ASP.NET Core MVC**, **Entity Framework**, **.NET Core** e **PostgreSQL**. Atualmente, estou cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas** e atuo como estagiário de TI, onde estou adquirindo experiência prática no desenvolvimento de sistemas.
+Sou um desenvolvedor **C#** apaixonado por tecnologia, com experiência prática em **ASP.NET Core MVC**, **Entity Framework**, **.NET Core** e **PostgreSQL**. Atuo como desenvolvedor júnior, focado em backend, cloud, APIs e automação de processos. Graduado em **Análise e Desenvolvimento de Sistemas**.
 
-### 🚀 Habilidades Técnicas:
+---
+
+## 🚀 Habilidades Técnicas
+
 - **Linguagens:** C#, SQL, JavaScript
 - **Frameworks:** ASP.NET Core, Entity Framework, X.PagedList
-- **Banco de Dados:** PostgreSQL, MySQL Server
-- **Ferramentas:** Git, pgAdmin, Visual Studio, Fiddler
-- **Web APIs:** Criação de APIs RESTful com ASP.NET Core
-- **Padrões de Arquitetura:** MVC, Repository Pattern, Unit of Work
+- **Banco de Dados:** PostgreSQL, MySQL
+- **Cloud:** Azure App Services, AWS S3, AWS Cognito
+- **APIs:** Criação e consumo de APIs RESTful, Swagger, Postman
+- **Padrões de Arquitetura:** DDD, CQRS, Clean Architecture, MVC, Repository Pattern, Unit of Work
+- **Ferramentas:** Git, Azure DevOps, pgAdmin, Visual Studio, Fiddler
 
-### 📚 O que estou aprendendo:
-- **ASP.NET Web APIs:** Estou fazendo um curso que cobre desde conceitos básicos até o desenvolvimento avançado de APIs usando ASP.NET Core.
-- **Otimização de Código:** Estou focado em melhorar o desempenho e a estrutura do meu código, aplicando boas práticas de design e organização de pastas.
+---
 
-### 💼 Experiência Profissional:
-- **Estagiário de TI**  
-  **Secretaria de Esporte e Lazer de SP**  
-  - Suporte a usuários e parceiros  
-  - Manutenção de sistemas e suporte a hardware  
-  - Desenvolvimento de novos sistemas usando C# e ASP.NET Core  
-  - Configuração de redes e montagem de racks
+## 💼 Experiência Profissional
 
-### 💡 Projetos:
-- **Sistema de Gestão de Vendas** (ASP.NET Core MVC, Entity Framework, MySQL)  
-  Um sistema completo de vendas, implementando padrões de design como DDD (Domain-Driven Design) e camadas de repositório para lidar com operações de banco de dados.
+- **Desenvolvedor Backend Júnior — SgRentals**  
+  Desenvolvimento de sistema completo de gestão de reservas e integrações, com ênfase em arquitetura moderna (DDD, CQRS), cloud (Azure, AWS), processamento de pagamentos (GetNet, eRede), automação de e-mails (SendGrid) e consumo de APIs externas.
 
-### 🛠️ Tecnologias Recentes:
-- **Criptografia com SHA-256:** Utilizando a classe `Criptografia` para segurança de senhas com métodos de hashing e verificação de hashes.
-- **Padrões Assíncronos:** Implementação de repositórios genéricos assíncronos no padrão Repository e Unit of Work.
+- **Desenvolvedor Júnior — Secretaria de Esporte e Lazer de SP**  
+  Desenvolvimento e manutenção de sistemas internos com C# e ASP.NET Core, integração com bancos de dados PostgreSQL/MySQL, automação de processos administrativos, suporte a infraestrutura e usuários.
 
-### 📫 Como entrar em contato:
-- **E-mail:** joaovitor.oliveira123@hotmail.com
-- **LinkedIn:** [www.linkedin.com/in/joão-oliveira-640061190](https://www.linkedin.com/in/joão-oliveira-640061190)
+---
+
+## 💡 Projetos
+
+- **SgRentals — Sistema de Gestão de Reservas**  
+  Backend robusto para gestão de reservas, processamento de pagamentos, integrações com AWS, Azure, envio de notificações por e-mail e autenticação via AWS Cognito. Utilização de DDD, CQRS e Clean Architecture.
+
+- **Sistema de Gestão Escolar (Freelancer)**  
+  Projeto independente para gerenciamento de turmas, alunos, professores e controle de presença. Upload e validação de documentos, geração de relatórios e integrações com front-end dinâmico (JavaScript, jQuery).
+
+- **Sistemas internos da Secretaria de Esporte e Lazer de SP**  
+  Desenvolvimento e suporte contínuo a sistemas administrativos, automação de rotinas e melhorias em performance e usabilidade.
+
+---
+
+## 🛠️ Tecnologias Recentes & Estudos
+
+- Integração com AWS S3, Cognito e Azure App Services
+- Documentação de APIs com Swagger e Postman
+- Implementação de Clean Architecture e padrões de domínio
+- Otimização de rotinas assíncronas e consultas em bancos de dados
+- Versionamento e CI/CD com Git e Azure DevOps
+
+---
+
+## 📫 Contato
+
+- **E-mail:** joaovitor.oliveira123@hotmail.com  
+- **LinkedIn:** [linkedin.com/in/joão-oliveira-640061190](https://www.linkedin.com/in/joão-oliveira-640061190)
